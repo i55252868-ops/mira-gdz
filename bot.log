@@ -1,0 +1,96 @@
+2026-04-08 21:06:54,397 [INFO] aiogram.dispatcher: Start polling
+2026-04-08 21:06:55,196 [INFO] aiogram.dispatcher: Run polling for bot @miras_gdzbot id=8611991374 - 'miras_gdz'
+2026-04-08 21:06:55,922 [INFO] aiogram.event: Update id=504653569 is handled. Duration 525 ms by bot id=8611991374
+2026-04-08 21:06:55,944 [INFO] aiogram.event: Update id=504653570 is handled. Duration 545 ms by bot id=8611991374
+2026-04-08 21:06:55,949 [INFO] aiogram.event: Update id=504653566 is handled. Duration 559 ms by bot id=8611991374
+2026-04-08 21:06:55,961 [INFO] aiogram.event: Update id=504653571 is handled. Duration 561 ms by bot id=8611991374
+2026-04-08 21:06:55,998 [INFO] aiogram.event: Update id=504653567 is handled. Duration 606 ms by bot id=8611991374
+2026-04-08 21:06:56,035 [INFO] aiogram.event: Update id=504653568 is handled. Duration 639 ms by bot id=8611991374
+2026-04-08 21:07:10,967 [INFO] aiogram.event: Update id=504653572 is handled. Duration 165 ms by bot id=8611991374
+2026-04-08 21:07:15,165 [INFO] aiogram.event: Update id=504653573 is handled. Duration 181 ms by bot id=8611991374
+2026-04-08 21:07:16,657 [INFO] aiogram.event: Update id=504653574 is handled. Duration 148 ms by bot id=8611991374
+2026-04-08 21:07:27,961 [INFO] aiogram.event: Update id=504653575 is handled. Duration 338 ms by bot id=8611991374
+2026-04-08 21:07:33,283 [INFO] aiogram.event: Update id=504653576 is handled. Duration 304 ms by bot id=8611991374
+2026-04-08 21:07:35,044 [INFO] aiogram.event: Update id=504653577 is handled. Duration 171 ms by bot id=8611991374
+2026-04-08 21:07:36,134 [INFO] aiogram.event: Update id=504653578 is handled. Duration 176 ms by bot id=8611991374
+2026-04-08 21:07:37,434 [INFO] aiogram.event: Update id=504653579 is handled. Duration 196 ms by bot id=8611991374
+2026-04-08 21:07:38,715 [INFO] aiogram.event: Update id=504653580 is handled. Duration 160 ms by bot id=8611991374
+2026-04-08 21:07:40,036 [INFO] aiogram.event: Update id=504653581 is handled. Duration 172 ms by bot id=8611991374
+2026-04-08 21:40:55,686 [INFO] aiogram.dispatcher: Start polling
+2026-04-08 21:40:56,561 [INFO] aiogram.dispatcher: Run polling for bot @miras_gdzbot id=8611991374 - 'miras_gdz'
+2026-04-08 21:40:56,951 [INFO] aiogram.event: Update id=504653584 is not handled. Duration 21 ms by bot id=8611991374
+2026-04-08 21:40:57,549 [INFO] aiogram.event: Update id=504653585 is handled. Duration 602 ms by bot id=8611991374
+2026-04-08 21:40:57,551 [INFO] aiogram.event: Update id=504653582 is handled. Duration 744 ms by bot id=8611991374
+2026-04-08 21:40:57,554 [INFO] aiogram.event: Update id=504653583 is handled. Duration 624 ms by bot id=8611991374
+2026-04-08 21:41:11,360 [INFO] aiogram.event: Update id=504653586 is not handled. Duration 7 ms by bot id=8611991374
+2026-04-08 21:41:18,295 [INFO] aiogram.event: Update id=504653587 is handled. Duration 242 ms by bot id=8611991374
+2026-04-08 21:41:21,290 [INFO] aiogram.event: Update id=504653588 is handled. Duration 181 ms by bot id=8611991374
+2026-04-08 21:46:11,373 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 121] Превышен таймаут семафора
+2026-04-08 21:46:11,373 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8611991374)
+2026-04-08 21:46:24,038 [INFO] aiogram.dispatcher: Connection established (tryings = 1, bot id = 8611991374)
+2026-04-08 21:51:43,597 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-04-08 21:51:43,598 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8611991374)
+2026-04-08 21:52:05,650 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [WinError 1231] Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows, [WinError 121] Превышен таймаут семафора]
+2026-04-08 21:52:05,651 [WARNING] aiogram.dispatcher: Sleep for 1.211336 seconds and try again... (tryings = 1, bot id = 8611991374)
+2026-04-08 21:52:27,930 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [WinError 121] Превышен таймаут семафора, [WinError 1231] Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:52:27,931 [WARNING] aiogram.dispatcher: Sleep for 1.464062 seconds and try again... (tryings = 2, bot id = 8611991374)
+2026-04-08 21:52:49,295 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [WinError 1231] Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows, [WinError 1236] Подключение к сети было разорвано локальной системой]
+2026-04-08 21:52:49,324 [WARNING] aiogram.dispatcher: Sleep for 1.712728 seconds and try again... (tryings = 3, bot id = 8611991374)
+2026-04-08 21:52:51,065 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:52:51,067 [WARNING] aiogram.dispatcher: Sleep for 2.240735 seconds and try again... (tryings = 4, bot id = 8611991374)
+2026-04-08 21:52:53,322 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:52:53,323 [WARNING] aiogram.dispatcher: Sleep for 3.054276 seconds and try again... (tryings = 5, bot id = 8611991374)
+2026-04-08 21:52:56,395 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:52:56,396 [WARNING] aiogram.dispatcher: Sleep for 4.121801 seconds and try again... (tryings = 6, bot id = 8611991374)
+2026-04-08 21:53:00,524 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:53:00,525 [WARNING] aiogram.dispatcher: Sleep for 4.977586 seconds and try again... (tryings = 7, bot id = 8611991374)
+2026-04-08 21:53:05,515 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:53:05,516 [WARNING] aiogram.dispatcher: Sleep for 4.913593 seconds and try again... (tryings = 8, bot id = 8611991374)
+2026-04-08 21:53:10,438 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:53:10,439 [WARNING] aiogram.dispatcher: Sleep for 4.964544 seconds and try again... (tryings = 9, bot id = 8611991374)
+2026-04-08 21:53:15,429 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:53:15,429 [WARNING] aiogram.dispatcher: Sleep for 5.115176 seconds and try again... (tryings = 10, bot id = 8611991374)
+2026-04-08 21:53:20,555 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:53:20,556 [WARNING] aiogram.dispatcher: Sleep for 5.105195 seconds and try again... (tryings = 11, bot id = 8611991374)
+2026-04-08 21:53:25,681 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:53:25,683 [WARNING] aiogram.dispatcher: Sleep for 4.886516 seconds and try again... (tryings = 12, bot id = 8611991374)
+2026-04-08 21:53:30,574 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:53:30,574 [WARNING] aiogram.dispatcher: Sleep for 4.835118 seconds and try again... (tryings = 13, bot id = 8611991374)
+2026-04-08 21:53:35,425 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:53:35,426 [WARNING] aiogram.dispatcher: Sleep for 4.965062 seconds and try again... (tryings = 14, bot id = 8611991374)
+2026-04-08 21:53:40,415 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:53:40,416 [WARNING] aiogram.dispatcher: Sleep for 4.992154 seconds and try again... (tryings = 15, bot id = 8611991374)
+2026-04-08 21:53:45,425 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:53:45,426 [WARNING] aiogram.dispatcher: Sleep for 5.029498 seconds and try again... (tryings = 16, bot id = 8611991374)
+2026-04-08 21:53:50,476 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:53:50,478 [WARNING] aiogram.dispatcher: Sleep for 4.932284 seconds and try again... (tryings = 17, bot id = 8611991374)
+2026-04-08 21:53:55,420 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:53:55,421 [WARNING] aiogram.dispatcher: Sleep for 4.941020 seconds and try again... (tryings = 18, bot id = 8611991374)
+2026-04-08 21:54:00,381 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:54:00,382 [WARNING] aiogram.dispatcher: Sleep for 5.014285 seconds and try again... (tryings = 19, bot id = 8611991374)
+2026-04-08 21:54:26,467 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [WinError 121] Превышен таймаут семафора, [WinError 1231] Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-04-08 21:54:26,468 [WARNING] aiogram.dispatcher: Sleep for 4.822482 seconds and try again... (tryings = 20, bot id = 8611991374)
+2026-04-08 21:54:45,095 [INFO] aiogram.dispatcher: Connection established (tryings = 21, bot id = 8611991374)
+2026-04-09 04:33:36,777 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-04-09 04:33:36,777 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8611991374)
+2026-04-09 04:33:38,482 [INFO] aiogram.dispatcher: Connection established (tryings = 1, bot id = 8611991374)
+2026-04-09 04:33:38,488 [INFO] aiogram.event: Update id=504653590 is not handled. Duration 2 ms by bot id=8611991374
+2026-04-09 04:33:38,968 [INFO] aiogram.event: Update id=504653589 is handled. Duration 484 ms by bot id=8611991374
+2026-04-09 04:35:13,004 [INFO] aiogram.event: Update id=504653591 is handled. Duration 192 ms by bot id=8611991374
+2026-04-09 04:35:14,910 [INFO] aiogram.event: Update id=504653592 is handled. Duration 311 ms by bot id=8611991374
+2026-04-09 04:35:18,817 [INFO] aiogram.event: Update id=504653593 is handled. Duration 161 ms by bot id=8611991374
+2026-04-09 04:35:29,759 [INFO] aiogram.event: Update id=504653594 is handled. Duration 157 ms by bot id=8611991374
+2026-04-09 04:35:33,598 [INFO] aiogram.event: Update id=504653595 is handled. Duration 158 ms by bot id=8611991374
+2026-04-09 04:35:38,013 [INFO] aiogram.event: Update id=504653596 is handled. Duration 165 ms by bot id=8611991374
+2026-04-09 04:35:46,408 [INFO] aiogram.event: Update id=504653597 is handled. Duration 167 ms by bot id=8611991374
+2026-04-09 04:35:48,718 [INFO] aiogram.event: Update id=504653598 is handled. Duration 714 ms by bot id=8611991374
+2026-04-09 04:35:56,478 [INFO] aiogram.event: Update id=504653599 is handled. Duration 236 ms by bot id=8611991374
+2026-04-09 04:35:58,570 [INFO] aiogram.event: Update id=504653600 is handled. Duration 245 ms by bot id=8611991374
+2026-04-09 04:36:00,638 [INFO] aiogram.event: Update id=504653601 is handled. Duration 238 ms by bot id=8611991374
+2026-04-09 04:36:03,917 [INFO] aiogram.event: Update id=504653602 is handled. Duration 224 ms by bot id=8611991374
+2026-04-09 04:36:05,644 [INFO] aiogram.event: Update id=504653603 is handled. Duration 206 ms by bot id=8611991374
+2026-04-09 04:36:08,718 [INFO] aiogram.event: Update id=504653604 is handled. Duration 877 ms by bot id=8611991374
+2026-04-09 04:36:13,234 [INFO] aiogram.event: Update id=504653605 is handled. Duration 197 ms by bot id=8611991374
+2026-04-09 04:36:16,218 [INFO] aiogram.event: Update id=504653606 is handled. Duration 190 ms by bot id=8611991374
+2026-04-09 04:36:18,810 [INFO] aiogram.event: Update id=504653607 is handled. Duration 235 ms by bot id=8611991374
+2026-04-09 04:36:23,925 [INFO] aiogram.event: Update id=504653608 is handled. Duration 804 ms by bot id=8611991374
