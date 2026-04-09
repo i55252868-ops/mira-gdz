@@ -5,8 +5,8 @@
 BOT_TOKEN = "8611991374:AAGTBiwHXoTiW0tAf8weEyCL-C8NGiPTRMo"
 
 ADMIN_IDS = [7885609934]
+DB_PATH = "/data/orders.db"
 
-DB_PATH = "database/orders.db"
 
 SHOP_NAME = "Miras_gdz"
 
