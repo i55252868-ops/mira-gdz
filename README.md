@@ -1,26 +1,26 @@
 # Miras_gdz Bot
 
 Telegram-бот для приёма заказов на учебные работы.
-
-## Структура проекта
-
-```
-student_bot/
-├── main.py                  # Точка входа
-├── config.py                # Токен, настройки, прайс
+mira-gdz/
+├── amvera.yml
+├── main.py
+├── config.py
 ├── requirements.txt
 ├── database/
-│   ├── db.py                # Подключение к БД, init_db
-│   └── models.py            # CRUD функции
+│   ├── __init__.py
+│   ├── db.py
+│   └── models.py
 ├── handlers/
-│   ├── start.py             # /start, главное меню, о нас, прайс, помощь
-│   ├── orders.py            # Оформление заказов и жалоб (FSM)
-│   └── admin.py             # Админ-панель (/admin)
+│   ├── __init__.py
+│   ├── start.py
+│   ├── orders.py
+│   └── admin.py
 └── keyboards/
-    ├── menu.py              # Главное меню
-    ├── orders.py            # Клавиатуры заказов
-    └── admin.py             # Клавиатуры админки
-```
+    ├── __init__.py
+    ├── menu.py
+    ├── orders.py
+    └── admin.p
+
 
 ## Установка и запуск
 
