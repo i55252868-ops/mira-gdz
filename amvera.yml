@@ -1,0 +1,11 @@
+meta:
+  environment: python
+  toolchain:
+    name: pip
+    version: 3.11
+
+run:
+  persistenceMount: /data
+  startupProbe:
+    failureThreshold: 5
+  command: python main.py
